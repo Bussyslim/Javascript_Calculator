@@ -1,1 +1,1 @@
-## How to create a calculator using Html, Css & JavaScript
+## A basic calculator using Html, Css & JavaScript
